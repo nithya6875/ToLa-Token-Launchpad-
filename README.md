@@ -16,7 +16,7 @@ Testnet deployment support
 
 Automated testing and contract validation
 
-🧱 Tech Stack:
+## 🧱 Tech Stack:
 Frontend: React, Tailwind CSS
 
 Backend: Node.js, Express.js, MongoDB
@@ -27,7 +27,7 @@ Authentication: JWT, bcrypt
 
 Testing: Mocha, Chai, Postman
 
-👩‍💻 Team Roles:
+## 👩‍💻 Team Roles:
 Nithya: Blockchain development, smart contract design, integration
 
 Prajana: Frontend & backend (MERN stack)
